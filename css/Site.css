@@ -1,0 +1,269 @@
+body
+{
+    direction:rtl;
+     background:url('../images/siteBG1.png') repeat-y;
+     background-attachment:fixed;
+   
+}
+#menu{
+	position:fixed;
+	top:80px;
+	left:35px;
+	height: 40px;
+	z-index: 70;
+	width: 100%;
+	padding: 0;
+	margin:0;
+	display:block;
+	font-size:medium;
+	direction:ltr;
+}
+.content
+{
+    width:80%;
+    margin-right:90px;
+   
+}
+.content h1
+{/*massege+prodect*/
+    float:inherit;
+     padding-right:20px;
+    margin-top:180px;
+    margin-bottom:-160px;
+    text-align:center;
+    font-size:xx-large;
+    color:#7ca9d2;
+}/*massege*/
+.content p
+{
+    color: #000;
+    font-size:1.4em;
+    font-variant:normal;
+    font-weight:bold;
+    width:80%;
+    height:20%;
+    padding-left:80px;
+    float:left;
+    margin-top:30px;
+  
+     text-align:center;
+}
+.content img
+{
+    margin-top:130px;
+    margin-right:350px;
+    margin-bottom:-40px;
+}
+
+#p2
+{
+    position:relative;
+    float:left;
+    margin-top:29px;
+    margin-left:20px;
+    width:80%;
+    height:20%;
+    margin-bottom:50px;
+    
+}
+/*Masseg*/
+#MassImg
+{
+    margin-top:37px; 
+}
+#page0
+{ 
+    background:#fff url('../images/water-041.png') repeat-y fixed bottom;
+    height:70%;
+    width:100%;
+ 
+    margin-top:-30px;
+}
+
+#page1
+{ 
+    background:#fff url('../images/water_081.png') no-repeat bottom;
+    background-attachment:fixed;
+    background-position:bottom;
+    height:100%;
+    z-index:1;
+      padding-top:20px;
+    margin-top:30px;
+}
+#page2
+   {
+         background:#fff url('../images/water_091.png') no-repeat bottom;
+    background-attachment:fixed;
+    height:100%;
+    z-index:1;
+    background-position:bottom;
+      padding-top:20px;
+    margin-top:30px;
+}
+.section p
+{
+    
+}
+.section img
+{
+    padding-right:100px;
+    padding-top:120px;
+    position:relative;
+    float:right;
+}
+/*product */
+#h1
+{
+    margin-right:150px;
+}
+
+/*prodect*/
+#detail
+{
+   position:relative;
+    width:80%;
+      margin-top:20px;
+      margin-right:100px;
+   
+}
+#detail h1
+{
+    font-weight:bolder;
+    margin-top:40px;
+    float:inherit;
+    text-align:center;
+     font-size:2.7em;
+    color:#7ca9d2;
+    margin-bottom:40px;
+    
+  
+   
+}
+#detail h2
+{
+    font-size:1.7em;
+    font-weight:bolder;
+    margin-right:90px;
+    text-align:center;
+    margin-bottom:40px;
+    color:#6a6a6a;
+}
+#detail p
+{
+     color: #6a6a6a;
+    font-size:1.5em;
+    font-variant:normal;
+    font-weight:bold;
+    margin-bottom:40px;
+     float:inherit;
+     margin-right:210px;
+      text-align:center;
+  
+}
+#detail img
+{
+   border-radius:15px;
+	border:solid 4px white;
+    position:relative;
+    float:inherit;
+    right:60px;
+    margin-left:30px;
+    margin-top:-80px;
+    height:180px;
+  
+}
+#prodImg
+{
+    position:relative;
+    margin-top:150px;
+    margin-right:450px; 
+}
+.subHead
+{
+     float:left;
+    margin-left:160px;
+}
+/*Gallery*/
+#gallery
+{
+    position:relative;
+    width:90%;
+    margin-top:90px;
+}
+.gallery img
+{
+      border-radius:15px;
+	border:solid 4px white;
+	 height:120px;
+    width:180px;
+    
+}
+.galleryVid img
+{
+      
+	 height:120px;
+    width:150px;
+}
+#gallery img
+{
+   
+    float:left;
+    margin:30px;
+}
+#gallery h1
+{
+     float:inherit;
+     margin-right:210px;
+    margin-bottom:30px;
+    text-align:center;
+    font-size:xx-large;
+    color:#7ca9d2;
+}
+#img
+{
+      border-radius:0;
+       height:40px;
+    width:80px;
+}
+#img1
+{
+    border-radius:0;
+    width:150px;
+    height:120px;
+}
+
+/*/////// news ///// */
+.news
+{
+    position:relative;
+    width:90%;
+    margin-right:100px;
+    text-align:justify;
+   
+}
+.news h2
+{
+    
+     margin-top:200px;
+    margin-bottom:70px;
+    font-size:1.6em;
+    color:#6a6a6a;
+    font-weight:bolder;
+    font-style:italic;
+    
+}
+.news p
+{
+    font-size:1.4em;
+    margin-bottom:40px;
+    width:90%;
+    line-height:inherit;
+    color:#000;
+    font-weight:bolder;
+    margin-bottom:40px;
+}
+.news img
+{
+    margin-bottom:30px;
+    border:2px solid #fff;
+}

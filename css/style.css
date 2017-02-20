@@ -1,0 +1,40 @@
+ 
+ 
+ /*///// news/// */
+.news
+{
+    direction:rtl;
+    width:90%;
+    float:right;
+  
+}
+.news h2
+{
+    font-size:1.6em;
+    font-weight:bolder;
+    text-align:right;
+    margin-right:30px;
+    font-style:italic;
+    color:#000;
+    padding-top: 180px;
+
+    }
+.news p
+{
+        margin-top:-40px;
+    width:77%;
+    color:#6a6a6a;
+    font-size:1.2em;
+    text-align:center;
+
+}
+.news a
+{
+    float:left;
+    left:0;
+    text-align:left;
+    color:#1293A1;
+    font-size:1.4em;
+    font-style:italic;
+    margin-right:90px;
+}
